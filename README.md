@@ -10,4 +10,4 @@ Kol'ko treba zlata </br>
 Samo da od doma otvoris mi vrata </br>
 https://www.youtube.com/watch?v=9K5P50fHri8
 
-![til](./gif/animation.gif)
+![til](https://media.giphy.com/media/U7HHHjl1yJjp3s6cLt/giphy.gif)
