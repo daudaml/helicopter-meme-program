@@ -9,4 +9,5 @@ Helikopter, helikopter </br>
 Kol'ko treba zlata </br>
 Samo da od doma otvoris mi vrata </br>
 https://www.youtube.com/watch?v=9K5P50fHri8
-![](gif/animation.gif)
+
+![til](./gif/animation.gif)
